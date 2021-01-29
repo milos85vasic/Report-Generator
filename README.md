@@ -22,3 +22,6 @@ echo "/Volumes/VermilionCode" >> configuration.txt
 ```bash
 sh run.sh
 ```
+
+4. Write your finalization script: `finalize.sh`. The script will be triggered by `run.sh` after 
+the report has been generated.
