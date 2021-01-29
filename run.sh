@@ -15,10 +15,13 @@ if test -e "$config_file"; then
         echo "Skipping: $directory"
       else
 
-        echo "Generating report for: $directory"
-        sh "$report_script" "$directory" >/dev/null 2>&1
+        if [ -z "$directory" ]; then
+
+          echo "Generating report for: $directory"
+          sh "$report_script" "$directory" >/dev/null 2>&1
+        fi
       fi
-    done < configuration.txt
+    done <configuration.txt
 
     if test -e "$finalization_script"; then
 
