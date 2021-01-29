@@ -1,4 +1,5 @@
 .idea
 .idea/*
 configuration.txt
+initialize.sh
 finalize.sh

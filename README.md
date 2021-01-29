@@ -23,5 +23,9 @@ echo "/Volumes/VermilionCode" >> configuration.txt
 sh run.sh
 ```
 
-4. Write your finalization script: `finalize.sh`. The script will be triggered by `run.sh` after 
-the report has been generated.
+4. Optionally, write your initialization and finalization scripts: 
+
+- `initialize.sh`   
+- `finalize.sh`
+
+The scripts will be triggered by `run.sh` before and after the report has been generated.
