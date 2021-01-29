@@ -1,4 +1,4 @@
-# Reporter Generator
+# Report Generator
 
 This repo is used for personal needs.
 
