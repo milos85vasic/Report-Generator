@@ -10,6 +10,5 @@ if test -e "$directory"; then
   echo "$date: $size" >>"$year"_report.txt
 else
 
-  echo "ERROR: Directory does not exits"
-  exit 1
+  echo "WARNING: Directory is not accessible"
 fi
