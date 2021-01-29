@@ -2,6 +2,7 @@
 
 config_file="configuration.txt"
 report_script="generate_report.sh"
+finalization_script="finalize.sh"
 
 if test -e "$config_file"; then
 
@@ -18,6 +19,13 @@ if test -e "$config_file"; then
       exit 1
     fi
   done
+  if test -e "$finalization_script"; then
+
+    sh "$finalization_script"
+  else
+
+    echo "WARNING: No 'finalize.sh' script provided"
+  fi
 else
 
   echo "ERROR: Could not find '$config_file'"
