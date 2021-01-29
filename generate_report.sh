@@ -7,7 +7,7 @@ if test -e "$directory"; then
   year=$(date +'%Y')
   size=$(du -sh "$directory")
 
-  echo "$date: $size" >>"$year"_report.txt
+  echo "$date: $size" >>"reports/$year"_report.txt
 else
 
   echo "WARNING: Directory is not accessible"
