@@ -11,7 +11,7 @@ if test -e "$config_file"; then
     if test -e "$report_script"; then
 
       echo "Generating report for: $directory"
-      sh "$report_script" "$directory"
+      sh "$report_script" "$directory" >/dev/null 2>&1
     else
 
       echo "ERROR: Could not find '$report_script'"
