@@ -31,3 +31,6 @@ Thu Feb  4 17:20:50 CET 2021: 866G	/Volumes/VermilionCode
 Fri Feb  5 11:16:01 CET 2021:  33G	/Users/milosvasic/Projects
 Fri Feb  5 11:16:25 CET 2021: 449G	/Volumes/RedElf
 Fri Feb  5 11:16:25 CET 2021: 866G	/Volumes/VermilionCode
+Sat Feb  6 12:25:53 CET 2021:  33G	/Users/milosvasic/Projects
+Sat Feb  6 12:26:25 CET 2021: 449G	/Volumes/RedElf
+Sat Feb  6 12:26:25 CET 2021: 866G	/Volumes/VermilionCode
