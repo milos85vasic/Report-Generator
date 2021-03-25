@@ -243,3 +243,6 @@ Wed Mar 24 13:48:26 CET 2021: 416G	/Volumes/RedElf
 Wed Mar 24 13:48:26 CET 2021: 1.4T	/Volumes/VermilionCode
 Wed Mar 24 18:34:59 CET 2021:  33G	/Users/milosvasic/Projects
 Wed Mar 24 22:53:31 CET 2021:  33G	/Users/milosvasic/Projects
+Thu Mar 25 09:09:14 CET 2021:  33G	/Users/milosvasic/Projects
+Thu Mar 25 09:09:36 CET 2021: 416G	/Volumes/RedElf
+Thu Mar 25 09:09:36 CET 2021: 1.4T	/Volumes/VermilionCode
