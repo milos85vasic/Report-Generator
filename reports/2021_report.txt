@@ -486,3 +486,6 @@ Sun May  2 19:31:22 CEST 2021:  34G	/Users/milosvasic/Projects
 Mon May  3 10:07:01 CEST 2021:  34G	/Users/milosvasic/Projects
 Mon May  3 21:56:16 CEST 2021:  34G	/Users/milosvasic/Projects
 Tue May  4 09:24:27 CEST 2021:  34G	/Users/milosvasic/Projects
+Tue May  4 23:20:22 CEST 2021:  34G	/Users/milosvasic/Projects
+Tue May  4 23:21:28 CEST 2021: 696G	/Volumes/RedElf
+Tue May  4 23:21:28 CEST 2021: 1.7T	/Volumes/VermilionCode
