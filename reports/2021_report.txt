@@ -558,3 +558,6 @@ Sat May 15 09:50:53 CEST 2021: 2.4T	/Volumes/Elements
 Sat May 15 21:55:10 CEST 2021:  34G	/Users/milosvasic/Projects
 Sat May 15 21:55:37 CEST 2021: 738G	/Volumes/RedElf
 Sat May 15 21:55:37 CEST 2021: 2.4T	/Volumes/Elements
+Sun May 16 09:58:56 CEST 2021:  34G	/Users/milosvasic/Projects
+Sun May 16 09:59:26 CEST 2021: 738G	/Volumes/RedElf
+Sun May 16 09:59:26 CEST 2021: 2.4T	/Volumes/Elements
