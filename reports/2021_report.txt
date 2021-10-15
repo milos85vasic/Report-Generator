@@ -1271,3 +1271,6 @@ Wed Oct 13 14:33:14 MSK 2021: 6.2T	/Volumes/Elements
 Thu Oct 14 15:16:41 MSK 2021:  34G	/Users/milosvasic/Projects
 Thu Oct 14 15:17:07 MSK 2021: 854G	/Volumes/RedElf
 Thu Oct 14 15:17:07 MSK 2021: 6.2T	/Volumes/Elements
+Fri Oct 15 15:07:22 MSK 2021:  35G	/Users/milosvasic/Projects
+Fri Oct 15 15:07:52 MSK 2021: 854G	/Volumes/RedElf
+Fri Oct 15 15:07:52 MSK 2021: 6.2T	/Volumes/Elements
