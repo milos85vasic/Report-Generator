@@ -7,7 +7,7 @@ This repo is used for personal needs.
 1. Create configuration file:
 
 ```bash
-cat configuration.txt
+touch configuration.txt
 ```   
 
 2. Define list of directories to be monitored (for example):
