@@ -37,3 +37,5 @@ Sun Jan  1 10:48:27 PM MSK 2023: 251G	/home/milosvasic
 Sun Jan  1 11:30:56 PM MSK 2023: 246G	/home/milosvasic
 Sun Jan  1 11:30:59 PM MSK 2023: 246G	/home/milosvasic
 Sun Jan  1 11:30:56 PM MSK 2023: 246G	/home/milosvasic
+Mon Jan  2 12:58:41 PM MSK 2023: 397G	/home/milosvasic
+Mon Jan  2 12:58:34 PM MSK 2023: 397G	/home/milosvasic
